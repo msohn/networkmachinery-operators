@@ -9,7 +9,7 @@ Only the ones highlighted are the ones implemented at the moment.
 ## How to use
 
 - You can use the `Make` to package and build the container images via `make package && make tag && make push`.
-- To deploy to a cluster, have a look at an example helm chart under the kubernetes director.
+- To deploy to a cluster, have a look at an example helm chart under the kubernetes directory.
 
 ```bash
 kubernetes
